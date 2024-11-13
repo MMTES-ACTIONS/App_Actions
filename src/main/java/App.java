@@ -1,4 +1,4 @@
-public class CalculadoraApp {
+public class App {
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
         System.out.println("Soma: " + calculadora.somar(10, 5));
